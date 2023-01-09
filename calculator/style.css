@@ -1,0 +1,107 @@
+#calculator {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+#display {
+    width: 300px;
+    height: 100px;
+}
+
+#display-text {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+
+#buttons {
+    width: 100px;
+    height: 200px;
+}
+
+#buttons-row-1 {
+    width: 300px;
+    height: 355px;
+}
+
+#buttons-row-2 {
+    width: 300px;
+    height: 200px;
+}
+
+button {
+    width: 60px;
+    height: 70px;
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#button-1 {
+    background-color: #ccc;
+}
+
+#button-2 {
+    background-color: #ccc;
+}
+
+#button-3 {
+    background-color: #ccc;
+}
+
+#button-4 {
+    background-color: #ccc;
+}
+
+#button-5 {
+    background-color: #ccc;
+}
+
+#button-6 {
+    background-color: #ccc;
+}
+
+#button-7 {
+    background-color: #ccc;
+}
+
+#button-8 {
+    background-color: #ccc;
+}
+
+#button-9 {
+    background-color: #ccc;
+}
+
+#button-0 {
+    background-color: #ccc;
+}
+
+#button-add {
+    background-color: #ccc;
+}
+
+#button-subtract {
+    background-color: #ccc;
+}
+
+#button-multiply {
+    background-color: #ccc;
+}
+
+#button-divide {
+    background-color: #ccc;
+}
+
+#button-equals {
+    background-color: #ccc;
+}
+
+#button-decimal {
+    background-color: #ccc;
+}
+
+#button-reset {
+    background-color: #ccc;
+}
